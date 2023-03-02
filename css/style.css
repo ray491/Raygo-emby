@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+.welcome {
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+    font-size: xx-large;
+}
+.videos {
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+    font-size: x-large;
+}
