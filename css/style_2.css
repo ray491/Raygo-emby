@@ -1,0 +1,15 @@
+body {
+    background-color: grey;
+}
+.welcome {
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+}
+.video {
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+}
